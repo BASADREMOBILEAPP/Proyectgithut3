@@ -21,5 +21,11 @@
         android:text="xDDDDDDDDDDDDDDDDDDDDDD"
         android:layout_gravity="left|bottom|center_horizontal" />
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Alvaro se la come"
+        android:layout_gravity="left|bottom|center_horizontal" />
+
 
 </LinearLayout>
