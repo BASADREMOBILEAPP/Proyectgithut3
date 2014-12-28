@@ -15,4 +15,11 @@
         android:layout_height="wrap_content"
         android:text="alvaro es tuvo aqui lol :D"/>
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="xDDDDDDDDDDDDDDDDDDDDDD"
+        android:layout_gravity="left|bottom|center_horizontal" />
+
+
 </LinearLayout>
